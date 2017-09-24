@@ -1,8 +1,9 @@
 # Ingeniería del Software UCAB (2017 - 2do trimestre)
 
-## Materiales
+## Del Curso
 
 - [Programa](https://docs.google.com/spreadsheets/d/1Nx7RmA4BJczHQMguPSj09EBfksdrRqaU3OPakNYjNpM/edit?usp=sharing). Calendario y Plan de Evaluación
+- [Proyecto](proyecto.md)
 
 
 ## Materiales de Ian Sommerville
