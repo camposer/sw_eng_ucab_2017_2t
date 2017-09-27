@@ -9,4 +9,4 @@
 ## Materiales de Ian Sommerville
 
 - [Libro](https://drive.google.com/file/d/0B7_SWS8S_hooeTVhU19MdXE0T0E/view?usp=sharing) 
-- [Diapositivas](https://es.slideshare.net/SE9?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview) 
+- [Diapositivas](https://ifs.host.cs.st-andrews.ac.uk/Books/SE9/Presentations/) 
