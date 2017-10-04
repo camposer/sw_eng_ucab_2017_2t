@@ -24,6 +24,6 @@ La aplicación deberá:
 
 ## Consideraciones no funcionales
 
-- La aplicación deberá contar con un *backend* (API Rest) y un *frontend* (Javascript + HTML)
+- La aplicación deberá contar con un *backend* (API Rest) y un *frontend* utilizando Javascript + HTML o una app para Android o iOS
 - El *frontend* deberá comunicarse con el *backend* vía AJAX
 - El código debe tener -al menos- pruebas: unitarias y de integración
