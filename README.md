@@ -4,6 +4,7 @@
 
 - [Programa](https://docs.google.com/spreadsheets/d/1Nx7RmA4BJczHQMguPSj09EBfksdrRqaU3OPakNYjNpM/edit?usp=sharing)
 - [Proyecto](proyecto.md)
+- [Misceláneos](https://drive.google.com/drive/folders/0B7_SWS8S_hooOEpyWHU1cjJMZ00?usp=sharing)
 
 
 ## Materiales de Ian Sommerville
