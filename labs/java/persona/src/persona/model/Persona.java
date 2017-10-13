@@ -1,11 +1,26 @@
-package persona.models;
+package persona.model;
 
 public class Persona {
 	private Long id;
 	private String nombre;
 	private String apellido;
 	private Integer edad;
-	
+
+	public Persona() {
+	}
+	public Persona(String nombre, String apellido, Integer edad) {
+		super();
+		this.nombre = nombre;
+		this.apellido = apellido;
+		this.edad = edad;
+	}
+	public Persona(Long id, String nombre, String apellido, Integer edad) {
+		super();
+		this.id = id;
+		this.nombre = nombre;
+		this.apellido = apellido;
+		this.edad = edad;
+	}
 	public Long getId() {
 		return id;
 	}
