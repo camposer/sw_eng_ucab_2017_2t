@@ -19,7 +19,7 @@ Respuesta:
 		]
 		```
 - 500: Error en el servidor
-	- BODY: { mensaje: "..." }
+	- BODY: `{ mensaje: "..." }`
 
 ## Eliminar TODO
 
@@ -29,7 +29,7 @@ Respuesta:
 - 200: Eliminado
 - 404: TODO no encontrado
 - 500: Error en el servidor
-	- BODY: { mensaje: "..." }
+	- BODY: `{ mensaje: "..." }`
 
 ## Alterar (*toggle*) TODO
 
@@ -39,7 +39,7 @@ Respuesta:
 - 200: Alterado
 - 404: TODO no entontrado
 - 500: Error en el servidor
-	- BODY: { mensaje: "..." }
+	- BODY: `{ mensaje: "..." }`
 
 ## Modificar TODO
 
@@ -54,6 +54,12 @@ Body:
 }
 ```
 
+Respuesta:
+- 200: Modificado
+- 404: TODO no entontrado
+- 500: Error en el servidor
+	- BODY: `{ mensaje: "..." }`
+
 ## Agregar TODO
 
 POST /v1/todos
@@ -65,3 +71,10 @@ Body:
 	descripcion: x,
 }
 ```
+
+Respuesta:
+- 200: Agregado
+	- BODY: `{ id: x }`
+- 500: Error en el servidor
+	- BODY: `{ mensaje: "..." }`
+
