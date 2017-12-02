@@ -72,6 +72,9 @@ Body:
 }
 ```
 
+NOTA: Los que implementen API para gestionar listas de TODO, deberán asumir que si no se especifica un nombre de lista, la tarea deberá asociarse
+a una lista por defecto. 
+
 Respuesta:
 - 200: Agregado
 	- BODY: `{ id: x }`
